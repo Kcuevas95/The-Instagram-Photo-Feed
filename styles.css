@@ -1,0 +1,151 @@
+body {
+    background-color: rgb(235, 163, 121);
+}
+
+.header {
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Bungee Shade', cursive;
+    color: black;
+}
+
+.feed {
+    height: 540px;
+    width: 530px;
+    background-color: white;
+    margin: auto;
+}
+
+#post1 {
+    float: left;
+    font-size: 20px;
+    padding-left: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#date {
+    float: right;
+    font-size: 20px;
+    color: gray;
+    padding-right: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    max-width: 100%;
+    margin-top: 5px;
+}
+
+p {
+    font-size: 15px;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 15px;
+}
+
+.feed2 {
+    height: 480px;
+    width: 530px;
+    background-color: white;
+    margin: auto;
+    margin-top: 20px;
+}
+
+#post2 {
+    float: left;
+    font-size: 20px;
+    padding-left: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#date2 {
+     float: right;
+    font-size: 20px;
+    color: gray;
+    padding-right: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#img2 {
+    max-width: 100%;
+    margin-top: 5px;
+}
+
+#p2 {
+    font-size: 15px;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 15px;
+}
+
+.feed3 {
+    height: 500px;
+    width: 530px;
+    background-color: white;
+    margin: auto;
+    margin-top: 20px;
+}
+
+#post3 {
+    float: left;
+    font-size: 20px;
+    padding-left: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#date3 {
+     float: right;
+    font-size: 20px;
+    color: gray;
+    padding-right: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#img3 {
+    max-width: 100%;
+    margin-top: 5px;
+}
+
+
+#p3 {
+    font-size: 15px;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 15px;
+}
+
+.feed4 {
+    height: 440px;
+    width: 530px;
+    background-color: white;
+    margin: auto;
+    margin-top: 20px;
+}
+
+#post4 {
+    float: left;
+    font-size: 20px;
+    padding-left: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#date4 {
+     float: right;
+    font-size: 20px;
+    color: gray;
+    padding-right: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#img4 {
+    max-width: 100%;
+    margin-top: 2px;
+}
+
+#p4 {
+    font-size: 15px;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 15px;
+}
